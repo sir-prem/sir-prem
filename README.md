@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sir-prem
 - 👀 I’m interested in coding, graphic design and visual art
-- 🌱 I’m currently learning nodejs, mongodb, materialize, git
+- 🌱 I’m currently learning nodejs, mongodb, p5.js (processing)
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - email sir_prem@hotmail.com
 
